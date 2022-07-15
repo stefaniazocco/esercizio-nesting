@@ -23,8 +23,7 @@ div section article p {
   align-self: center;
   text-align: center;
 }
-
-article:nth-of-type(odd) {
+div section article:nth-of-type(odd) {
   color: blue;
 }
 

@@ -26,7 +26,8 @@ div {
                 text-align: center;
             }
         }
+        article:nth-of-type(odd) {
+            color: $blue;
+        }
     }
 }
-article:nth-of-type(odd) {
-    color: $blue;}
